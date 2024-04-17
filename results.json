@@ -1,0 +1,32 @@
+{
+  "test_preprocess": {
+    "vocab_length": 1804
+  },
+  "test_lm": {
+    "english_2_gram_length": 748,
+    "english_3_gram_length": 8239,
+    "french_3_gram_length": 8286,
+    "spanish_3_gram_length": 8469
+  },
+  "test_eval": {
+    "en_en": 18.1412331254856,
+    "en_fr": 51.34430768498328,
+    "en_tl": 56.232023840708415,
+    "en_nl": 52.005301283100145
+  },
+  "test_match": {
+    "en_en_3": 8.895281101347683,
+    "en_tl_3": 29.92332028768793,
+    "en_nl_3": 30.409986944594735
+  },
+  "test_generate": {
+    "english_1_gram": "I \ud83d\udd95h AfsaPoo-oIcCQfee",
+    "english_2_gram": "I amak s. achil rd.co/tt",
+    "english_3_gram": "I amendshoes anced Tompu",
+    "english_4_gram": "I LoverNHSDP4a<e><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk>",
+    "spanish_2_gram": "Soy @peoselon p\u00e1ndien y",
+    "spanish_3_gram": "Soy 9 lasinsa<e><unk><unk><unk><unk><unk><unk><unk><unk><unk>",
+    "french_2_gram": "Je suispraux d<e><unk><unk>_proba<unk><unk>_proba<unk><unk>_proba<unk><unk>_proba<unk><unk>_proba<unk><unk>_proba",
+    "french_3_gram": "Je suis gon de l\u2019examun ens"
+  }
+}
